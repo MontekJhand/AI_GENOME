@@ -1,8 +1,9 @@
-
 # Secrets & env
 access.env
 .env
-*.json
+.env.*
+key.json
+*.secret.json
 
 # Environments
 .venv/
